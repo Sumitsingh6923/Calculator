@@ -22,7 +22,7 @@ JavaScript: Functionality for performing calculations and handling user input.
 
 ## 🌐 Live Demo
 
-[Click here to view the live website](https://sumitsingh6923.github.io/Travels-Infinity/)
+[Click here to view the live website](https://sumitsingh6923.github.io/Calculator/)
 ## 🛠️ Built With
 
 - **HTML5** & **CSS3**
