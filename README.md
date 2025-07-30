@@ -17,3 +17,12 @@ CSS: Styling the calculator, including button design and layout.
 
 JavaScript: Functionality for performing calculations and handling user input.
 
+## 🌐 Live Demo
+
+[Click here to view the live website](https://sumitsingh6923.github.io/Travels-Infinity/)
+## 🛠️ Built With
+
+- **HTML5** & **CSS3**
+- **JavaScript** 
+
+
